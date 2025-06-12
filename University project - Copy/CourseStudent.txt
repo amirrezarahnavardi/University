@@ -1,0 +1,42 @@
+Name class: 4
+Exam date: 4
+Field: 4
+Grade: 4
+Start date Class: 1234-12-03
+End date Class: 1234-12-01
+Field code: 20
+Grade : 4
+Name Teacher: 4
+--------------------------
+Name class: 20
+Capacity: 2
+Field: 2
+Grade: 2
+Start date Class: 1234-12-03
+End date Class: 1234-12-09
+Field code: 24
+Number of units : 2
+Name Teacher: 20
+--------------------------
+Name class: 23
+Capacity: 2
+Field: 2
+Grade: 2
+Start date Class: 1234-12-03
+End date Class: 1234-12-09
+Field code: 2
+Number of units : 2
+Name Teacher: 20
+--------------------------
+Name class: 29
+Capacity:1
+Field: 2
+Grade: 2
+Start date Class: 1234-12-03
+End date Class: 1234-12-09
+Field code: 2
+Number of units : 2
+Name Teacher: 20
+--------------------------
+
+

@@ -1,0 +1,45 @@
+Name class: 4
+Exam date: 4
+Field: 4
+Grade: 4
+Start date Class: 1234-12-03
+End date Class: 1234-12-01
+Field code: 2
+Grade : 4
+-----------------------------
+Name class: 2
+Exam date: 2
+Field: 2
+Grade: 2
+Start date Class: 1234-12-03
+End date Class: 1234-12-09
+Field code: 23
+Grade : 2
+-----------------------------
+Name class: 2
+Exam date: 2
+Field: 2
+Grade: 2
+Start date Class: 1234-12-03
+End date Class: 1222-12-02
+Field code: 2
+Grade : 2
+-----------------------------
+Name class: 2
+Exam date: 2
+Field: 2
+Grade: 2
+Start date Class: 1234-12-03
+End date Class: 1234-12-04
+Field code: 2
+Grade : 2
+-----------------------------
+Name class: 20
+Capacity: 2
+Field: 2
+Grade: 2
+Start date Class: 1234-12-03
+End date Class: 1234-12-09
+Field code: 26
+Number of units : 2
+-----------------------------
